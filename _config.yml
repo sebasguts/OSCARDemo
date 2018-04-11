@@ -1,5 +1,5 @@
 name: OSCAR examples
-url: https://sebasguts.github.io/OSCARDemo
+url: sebasguts.github.io/OSCARDemo
 description: Insert tagline here
 
 permalink: /worksheets/:title/
@@ -9,8 +9,5 @@ plugins: [jekyll-paginate]
 highlighter: pygments
 paginate: 12
 
-markdown: rdiscount
-rdiscount:
-    extensions: ['smart']
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'vendor']
