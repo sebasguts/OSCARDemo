@@ -1,18 +1,11 @@
-Jekyll Themes
+OSCAR Jupyter examples
 =============
 
-A directory of the best-looking themes for Jekyll blogs
+Examples of Jupyter Notebooks for OSCAR
 
+Forked from Jekyll themes itself: http://jekyllthemes.org/
 
-Submitting a Theme
-------------------
-
-Have a theme you want to share?
-
-* Fork the site on GitHub
-* Create a new post in the `_posts` directory and fill out the relevant YAML fields
-* Make a 250x200 thumbnail and drop it in the thumbnails directory. List its filename in the post's markdown file.
-* Test it out, then push your changes up and open a pull request.
+Made using notebookjs: https://github.com/jsvine/notebookjs
 
 
 License

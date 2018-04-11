@@ -1,5 +1,5 @@
-name: Jekyll Themes
-url: http://matt.harzewski.com
+name: OSCAR examples
+url: sebasguts.github.io/oscarexamples
 description: Insert tagline here
 
 permalink: /themes/:title/
@@ -7,7 +7,7 @@ permalink: /themes/:title/
 gems: [jekyll-paginate]
 
 highlighter: pygments
-paginate: 20
+paginate: 12
 
 markdown: rdiscount
 rdiscount:
