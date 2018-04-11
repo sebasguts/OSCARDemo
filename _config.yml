@@ -1,10 +1,10 @@
 name: OSCAR examples
-url: sebasguts.github.io/oscarexamples
+url: https://sebasguts.github.io/OSCARDemo
 description: Insert tagline here
 
-permalink: /themes/:title/
+permalink: /worksheets/:title/
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 highlighter: pygments
 paginate: 12
