@@ -9,5 +9,6 @@ plugins: [jekyll-paginate]
 highlighter: pygments
 paginate: 12
 
+baseurl: /OSCARDemo
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'vendor']
